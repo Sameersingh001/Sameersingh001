@@ -1,79 +1,140 @@
 <img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif" width="1000"/>
 
+<h1 align="center">👋 Hello, I'm <span style="color:#36BCF7">Sameer Singh</span></h1>
 
-
-# Hi 👋, I'm Sameer Singh
-
-💻 **Full Stack Developer | MERN Stack | Web & Dashboard Applications**  
-🎯 Passionate about building **real-world applications** that solve problems and improve workflows.
-
----
-
-## 🌟 About Me
-
-I am a **Full Stack Developer** with hands-on experience in building **role-based dashboards** and management systems using modern web technologies.  
-I focus on **clean code, efficient workflows, and responsive UI/UX**. My goal is to create applications that are **both functional and user-friendly**.  
-
-**Recent Projects :**  
-- **Intern Management System** – Role-based dashboard for Admin, HR, Incharge, and Interns.  
-- **Employee Management System** – CRUD and performance management system for employees.  
-- **College Management System** – Dashboard for student, teacher, and course management.
-
-I love learning **new technologies**, solving problems, and contributing to projects that make an impact.
-
----
-
-## 🔧 Technologies & Tools
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### **Other Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🏆 Projects
-
-| Project | Description | Repo/Live |
-|---------|-------------|------------|
-| **Intern Management System** | Role-based dashboard for Admin, HR, Incharge, and Interns. **Features:** login, registration with secret keys, performance updates, intern activation/deactivation. | [Repo](https://github.com/Sameersingh001/IMS_team_project) |
-| **Employee Management System** | Complete CRUD system for managing employee records, performance updates, and status tracking. | [Repo](https://github.com/Sameersingh001/EMS/tree/master) |
-| **College Management System** | Dashboard to manage students, teachers, courses, and departments. Includes registration, role-based access, and performance tracking. | Privet |
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SameerSingh&show_icons=true&count_private=true&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SameerSingh&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerSingh&layout=compact&theme=radical&langs_count=5)
-
-
-
-
----
-
-## 📫 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/sameer-singh-dev/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mrsameersingh001@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Specialist;Role-Based+Dashboard+Expert;Cloud+%26+AI+Aware+Developer;Building+Real-World+Systems" />
 </p>
 
+<p align="center">
+💻 MERN Stack Developer | ⚙️ Backend-Focused | ☁️ Cloud & 🤖 AI Enthusiast | 📊 Dashboard Systems  
+</p>
+
+<hr/>
+
+## 🌟 Who Am I?
+
+🚀 **Full Stack Developer (MERN Stack)** passionate about building  **secure, scalable, and role-driven web applications**.
+
+🔧 What I focus on:
+- 🔐 Authentication & role-based access systems  
+- 📊 Admin dashboards & workflow automation  
+- ⚙️ Clean backend architecture & REST APIs  
+- 🎨 User-friendly, responsive UI  
+
+💡 My goal is to turn **complex business processes** into  **simple, automated, and reliable digital systems**  that deliver real-world impact.
+
+
+
+---
+
+## 🧠 What I Do Best
+
+✅ Design **Admin & Role-Based Dashboards**  
+✅ Build **REST APIs & Backend Workflows**  
+✅ Implement **Authentication & Authorization (JWT, RBAC)**  
+✅ Develop **Real-World Management Systems**  
+✅ Apply **Scalable Architecture & Clean Code Practices**  
+
+---
+
+## 🚀 Tech Stack & Tools
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,vercel,netlify" />
+</p>
+
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+---
+
+## 🏗️ Real-World Systems I Have Built
+
+| 🚀 System | 🧩 Purpose | ✅ Highlights |
+|---------|-----------|--------------|
+| **Intern Management System (IMS)** | Internship lifecycle automation | Multi-role login, duration tracking, performance system |
+| **Employee Management System (EMS)** | Employee operations | CRUD, status tracking, admin dashboard |
+| **College Management System** | Academic workflows | Student, teacher, course & department handling |
+| **Placement Management System** | Placement lifecycle | Eligibility logic, drive tracking, dashboards |
+| **Feedback Management System** | Reviews & feedback | Ratings, moderation, analytics-ready |
+| **Leave Management System** | Leave workflows | Request, approve/reject, role-based control |
+| **Certificate Generation System** | Automated certificates | Dynamic generation & approval flow |
+| **Review Team Dashboard** | Evaluation & verification | Submission review, validation workflows |
+
+---
+
+## ⚙️ Development Practices
+
+✔ MVC Architecture  
+✔ Modular Folder Structure  
+✔ RESTful API Standards  
+✔ Secure & Protected Routes  
+✔ Clean & Maintainable Code  
+✔ Error Handling & Validation  
+
+---
+
+## 📈 GitHub Activity & Growth
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SameerSingh&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SameerSingh&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Career Objective
+
+To work as a **Full Stack / MERN Developer** where I can:
+- Build **production-ready dashboards**
+- Automate business workflows
+- Integrate **cloud & intelligent features**
+- Contribute to scalable, real-world products
+
+---
+
+## 🤝 Soft Skills
+
+✅ Problem Solving  
+✅ Logical Thinking  
+✅ Team Collaboration  
+✅ Clear Communication  
+✅ Fast Learner  
+
+---
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="mailto:mrsameersingh001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sameer-singh-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+
+---
+
+<p align="center">
+  <b>⭐ Clean Code • Smart Systems • Real Impact ⭐</b>
+</p>
