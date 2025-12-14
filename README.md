@@ -92,10 +92,6 @@
 ## 📈 GitHub Activity & Growth
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SameerSingh&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=SameerSingh&theme=radical&hide_border=true" />
 </p>
 
