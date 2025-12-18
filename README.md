@@ -92,8 +92,9 @@
 ## 📈 GitHub Activity & Growth
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SameerSingh&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SameerSingh001&theme=radical&hide_border=true" />
 </p>
+
 
 ---
 
